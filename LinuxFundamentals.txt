@@ -1,0 +1,24 @@
+********Linux Commands Cheat Sheet For Beginners********
+
+File Commands :-
+
+ touch filename - used to create a files
+ touch filename{1..3} - used to create a files in sequence order i.e file1 file2 file3
+ rm filename - used to delete empty file
+ mkdir - create a directory
+ rmdir - delete an empty directory
+ rm -f dirname - delete a directory
+ cat filename - can view the file contents
+ cat >> filename - append the new data to exisiting file
+ cat > filename - overwrite the file contents
+ ls - used to see list of files
+ ls -la - used to see hidden files
+ ls -r - used to see list of files in reverse format
+ cp filename1 filename2 - copy contents from one file to other.
+ mv file1 file2 - move or rename the file name
+
+
+
+
+
+
