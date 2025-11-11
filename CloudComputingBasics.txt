@@ -1,6 +1,6 @@
 ************Cloud Computing Notes *************
 
-Definition : utilising the cloud services sucg as storage, network ,Databases through internet is called Cloud computing.
+Definition : utilising the cloud services such as storage, network ,Databases through internet is called Cloud computing.
 
 Two types :
 	1. Service Models
@@ -8,9 +8,9 @@ Two types :
 
 Service Models :
 
-	1. IAAS
-	2. PAAS
-	3. SAAS
+	1. IAAS (Infrastructure As a service)
+	2. PAAS (Platform As a Service)
+	3. SAAS (Software As a Service)
 
 Deployment Models :
 	1. Public
