@@ -1,3 +1,2 @@
-This is random test filee.
-might be delete after parctise.
 Doing manually build creation..
+Added the webhook in github to trigger pipeline as soon commits happened in github repo.
