@@ -1,2 +1,1 @@
-Doing manually build creation..
-Added the webhook in github to trigger pipeline as soon commits happened in github repo.
+configured scheluded trigger using poll scm (cron)
